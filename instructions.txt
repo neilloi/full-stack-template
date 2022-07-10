@@ -1,0 +1,11 @@
+// 1. Create server.js file; initialize npm and install dependencies: express, dotenv, cors, mongodb, ejs, nodemon (--save-dev)
+
+// 2. Require dependencies
+
+// 3. Declare variables
+
+// 4. Connect to MongoDB - add connection string to .env file
+
+// 5. Create Port
+
+// Test Mongo and Port Connection
