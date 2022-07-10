@@ -18,7 +18,9 @@
 
 // 9. Create public and views folders; add main.js and style.css to public, and index,ejs to views
 
-// 10. Create heroku repo:
+// 10. Add content to main.js, style.css, index.ejs
+
+// 11. Create heroku repo:
 
     // heroku login
     // heroku create simple-rap-api
