@@ -1,4 +1,4 @@
-// 1. Create server.js file; initialize npm and install dependencies: express, dotenv, cors, mongodb, ejs, nodemon (--save-dev)
+// 1. Create server.js file; initialize npm and install dependencies: express, dotenv, cors, mongodb, ejs, nodemon (--save-dev). Add nodemon dev script to package.json
 
 // 2. Require dependencies
 
@@ -10,4 +10,24 @@
 
 // Test Mongo and Port Connection
 
-// Create .gitignore, init repository & push to github
+// 6. Create gitignore file, include node_modules and .env
+
+// 7. Git init, set up repo and push
+
+// 8. Set middleware (prior to any CRUD functions)
+
+// 9. Create public and views folders; add main.js and style.css to public, and index,ejs to views
+
+// 10. Create heroku repo:
+
+    // heroku login
+    // heroku create simple-rap-api
+    // git add .
+    // git commit -m "changes"
+    //git push heroku main
+
+
+
+// Notes: you can set up multiple Mongo connections if your app uses multiple databases.
+// To manually start server, enter node server.js
+// To start server via nodemon, enter npm run dev
